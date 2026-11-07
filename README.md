@@ -86,6 +86,10 @@ Press Q to exit the application.
 
 ![Victory](screenshots/victory.png)
 
+## Demo
+
+[Watch the demo video](https://github.com/Falakmuzaffar-AI12/AI-Hand-Gesture-Recognition/raw/main/demo/AI%20Hand%20Gesture%20Recognition.mp4)
+
 ## Future Improvements
 
 - Improve recognition accuracy under different lighting conditions.
